@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+}
+
+.contenedor1 {
+    background-color: bisque;
+    width: 400px;
+    height: 500px;
+    border: solid 1px;
+    margin-left: 50px;
+    float: left;
+
+}
+
+.contenedor2 {
+    background-color: bisque;
+    width: 400px;
+    height: 500px;
+    border: solid 1px;
+    margin-left: 50px;
+    float: left;
+}
+
+p{
+    text-align: justify;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color:#0b3de3;
+}
+
+footer {
+    margin-top: 600px;
+    clear:both;
+}
